@@ -19,6 +19,22 @@ I made this to practice game development basics — and because it's fun watchin
 * **Pygame** 
 ---
 
+## What I Learned
+
+* Rendering graphics and animation using Pygame
+* Sprite groups and collision detection
+* Managing game states
+* Handling mouse input and button logic
+---
+
+## Future Plans ✨
+
+* Add sound effects or background music 
+* Save/display high scores
+* More themes (like a frog instead of bird 🐸)
+* Difficulty levels and power-ups
+---
+
 ## 💻 How to Run
 
 1. **Install Python:**
@@ -69,22 +85,6 @@ flappy-birdy/
 ├── bird3.png
 └── README.md
 ```
----
-
-## What I Learned
-
-* Rendering graphics and animation using Pygame
-* Sprite groups and collision detection
-* Managing game states
-* Handling mouse input and button logic
----
-
-## Future Plans ✨
-
-* Add sound effects or background music 
-* Save/display high scores
-* More themes (like a frog instead of bird 🐸)
-* Difficulty levels and power-ups
 ---
 
 ## 🙋‍♀️ Say Hi
