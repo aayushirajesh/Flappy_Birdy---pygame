@@ -1,7 +1,7 @@
 # Flappy Birdy (Pygame)
 
 A soft and simple clone of the original **Flappy Bird** game, made with Python and Pygame.
-I made this to practice game development basics — and because it's fun watching the bird go *boop* into pipes 😄
+I made this to practice game development basics and because it's fun watching the bird go *boop* into pipes 😄
 ---
 
 ## Features
